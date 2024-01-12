@@ -82,4 +82,5 @@ public class countrycontroller {
         mv.addObject("countries",countryserviceimpl.getMaxsulotList());
         return mv;
     }
+
 }
